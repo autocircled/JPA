@@ -1,0 +1,7 @@
+others/
+/others
+linkedin.code-workspace
+/nbproject/private/
+.tmp.*
+/env*
+/__pycache__/*
